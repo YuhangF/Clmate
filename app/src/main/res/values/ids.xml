@@ -1,0 +1,11 @@
+<resources>
+
+
+    <item name="yesterday" type="id" />
+    <item name="today" type="id" />
+    <item name="forecast1" type="id" />
+    <item name="forecast2" type="id" />
+    <item name="forecast3" type="id" />
+    <item name="forecast4" type="id" />
+    <item name="cancel_concern" type="id" />
+</resources>
